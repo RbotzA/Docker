@@ -9,9 +9,9 @@ python-dotenv>=0.10
 tenacity>=6.0.0
 python-magic
 beautifulsoup4>=4.8.2,<4.8.10
-Pyrogram>=1.0.7
-TgCrypto>=1.2.1
-git+https://github.com/l1ving/youtube-dl.git
+Pyrogram==0.18.0
+TgCrypto>=1.1.1,<1.1.10
+git+https://gitlab.com/magneto261290/you
 lxml
 telegraph
 cryptg
