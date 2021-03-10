@@ -16,3 +16,6 @@ lxml
 telegraph
 cryptg
 pycryptodome
+feedparser
+natsort
+aiohttp
